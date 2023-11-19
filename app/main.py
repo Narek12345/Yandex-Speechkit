@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi import UploadFile, File
+from fastapi import UploadFile
 
 import json
 import requests
