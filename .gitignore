@@ -1,0 +1,5 @@
+# Virtual environment.
+venv
+
+# Python byte code.
+__pycache__
